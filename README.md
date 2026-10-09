@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Behnaz 👋
 
-<!--
-**behnazghader/behnazghader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst based in Edinburgh, UK, with a focus on turning raw data into clear, actionable business insights.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SQL
+- Python
+- Excel
+- Tableau
+- Data Cleaning & Validation
+- Data Analysis
+- Dashboard Development
+
+## Featured Project
+
+### E-commerce Sales & Delivery Analysis
+
+End-to-end analysis of a Brazilian e-commerce dataset using Python, SQL, SQLite, and Tableau.
+
+The project includes:
+
+- Data quality auditing
+- Data cleaning and validation
+- SQL-based business analysis
+- Sales and delivery performance analysis
+- Customer review analysis
+- Interactive Tableau dashboard
+
+👉 [View the project](https://github.com/behnazghader/ecommerce-sales-analysis)
+
+## Currently Working On
+
+Building additional Data Analytics and BI projects focused on business reporting, customer analysis, and dashboard development.
